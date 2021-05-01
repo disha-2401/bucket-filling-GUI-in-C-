@@ -87,7 +87,7 @@ namespace Lab5a
             // setting interval from the speedTrackar array using trackbar value as index if the trackbar value is greater than 0 
             if (trackBar1.Value > 0)
             {
-                timer1.Interval = speedTracker[trackBar1.Value];
+                timer1.Interval = SpeedTracker[trackBar1.Value];
             }
 
             // stop Faucet if trackbar value is 0
