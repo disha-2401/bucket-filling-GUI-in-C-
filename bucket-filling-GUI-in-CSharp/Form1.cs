@@ -17,7 +17,7 @@ namespace Lab5a
         private int counter; //tracking variable that indicates how much water should be poured in bucket
         private bool stopped; //indicates if Faucet is stopped 
         private bool filled; //indicates if bucket is filled
-        int[] speedTracker = { 0,180, 160, 140, 120, 100, 80, 60, 40, 20, 10 }; // array containing water falling speed for different levels on trackbar
+        int[] SpeedTracker = { 0,180, 160, 140, 120, 100, 80, 60, 40, 20, 10 }; // array containing water falling speed for different levels on trackbar
         private Graphics graphics;
 
         public Form1()
