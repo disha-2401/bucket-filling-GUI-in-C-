@@ -1,0 +1,5 @@
+E:\DotNet\projects\Lab5a\Lab5a\bin\publish\Lab5a.exe
+E:\DotNet\projects\Lab5a\Lab5a\bin\publish\Lab5a.dll
+E:\DotNet\projects\Lab5a\Lab5a\bin\publish\Lab5a.deps.json
+E:\DotNet\projects\Lab5a\Lab5a\bin\publish\Lab5a.runtimeconfig.json
+E:\DotNet\projects\Lab5a\Lab5a\bin\publish\Lab5a.pdb
